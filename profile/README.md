@@ -1,6 +1,6 @@
 # The fucking box (TFB)
 
-<img src="./Result.jpg" alt="Logo" style="width: 256px;" />
+<img src="../Result.jpg" alt="Logo" style="width: 256px;" />
 
 Хуёвый ящик, хорошее вложение. Начнём с небольшого количества ликвидности и постепенно будем расти.
 
