@@ -6,5 +6,9 @@
 
 Мем-токен с ликвидностью, что рождается с нуля и неуклонно растёт вверх.
 
+## Адрес смарт-контракта
+
+[EQCcnQpSvavziikQ76igs2V_lspFxEsKy3jmjuG8BWrHneyN](https://tonscan.org/jetton/EQCcnQpSvavziikQ76igs2V_lspFxEsKy3jmjuG8BWrHneyN#events)
+
 ## Официальные страницы
 * https://t.me/thefuckingbox
