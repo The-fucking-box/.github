@@ -12,3 +12,4 @@
 
 ## Официальные страницы
 * https://t.me/thefuckingbox
+* https://www.geckoterminal.com/ton/pools/EQBaZm5vATMnrNwgiKb7obImPHhlfonwKEgz7AgQIHewrqN3
